@@ -1,0 +1,23 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "this is namaste react by akshay",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvc19/Namaste-react.git"
+  },
+  "keywords": [],
+  "author": "Gagan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gvc19/Namaste-react/issues"
+  },
+  "homepage": "https://github.com/gvc19/Namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
